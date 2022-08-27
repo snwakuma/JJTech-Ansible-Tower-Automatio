@@ -1,2 +1,2 @@
-# JJTech-Ansible-Tower-Automatio
+# JJTech-Ansible-Tower-Automation
 JJTech-Ansible-Tower-Automation
